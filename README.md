@@ -4,7 +4,7 @@ This is my personal portfolio website built using **React** and **Tailwind CSS**
 
 ## 🔗 Live Demo
 
-👉 [View Live Portfolio](loquacious-druid-fc7d4e.netlify.app)
+👉 loquacious-druid-fc7d4e.netlify.app
 
 ## 🛠️ Tech Stack
 
